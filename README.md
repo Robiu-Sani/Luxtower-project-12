@@ -27,3 +27,10 @@
 14. **Coupon Usage**: Users can apply coupons for discounts during payment.
 
 This website provides a comprehensive solution for managing a single building, making it easier for users, members, and administrators to handle all aspects of building management efficiently.
+
+how to run this project 
+```
+cd Luxtower-project-12
+npm install
+npm run dev
+```
