@@ -1,8 +1,29 @@
-# React + Vite
+# Building Management Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Admin Information
+- **Email**: guardian@luxtower.com
+- **Password**:Lustower1234
 
-Currently, two official plugins are available:
+## Live Site URL
+[Building Management Website](https://fluffy-gaufre-5d80b4.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Homepage Banner Picture
+![Homepage Screenshot](https://i.ibb.co/yhfhp7P/Screenshot-2024-06-11-021126.png)
+
+## Website Features
+1. **User Dashboard**: Personalized dashboard for users.
+2. **Member Dashboard**: Dedicated dashboard for building members.
+3. **Admin Dashboard**: Comprehensive dashboard for administrators.
+4. **Apartment Booking**: Users can book an apartment easily.
+5. **Online Payment**: Secure online payment processing.
+6. **Apartment Details**: Users can view all details about their apartment.
+7. **Payment History**: Users can view their payment history.
+8. **Contact Team**: Option for users to contact the support team.
+9. **Message Admin**: Users can send messages directly to the admin.
+10. **Agreement Management**: Admin can manage agreement requests.
+11. **Announcements**: Admin can make important announcements.
+12. **Coupon Management**: Admin can create, update, and delete coupons.
+13. **Search Functionality**: Users can search for apartments and more.
+14. **Coupon Usage**: Users can apply coupons for discounts during payment.
+
+This website provides a comprehensive solution for managing a single building, making it easier for users, members, and administrators to handle all aspects of building management efficiently.
